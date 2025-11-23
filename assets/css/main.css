@@ -64,7 +64,7 @@
   overflow: hidden;
   opacity: 0;
   /* transform: translate(-50px, 50px); */
-  background-image: url("./assets/images/hand_white_pod.webp");
+  background-image: url("assets/images/hand_white_pod.webp");
   background-size: cover;
 }
 .sc-home .bg-layer img {
