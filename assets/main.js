@@ -161,7 +161,7 @@ function createImageSequence(config) {
 // Canvas-01
 const sequence01 = createImageSequence({
   canvasSelector: "#canvas",
-  imagePath: "/assets/images/video_pod_emerges",
+  imagePath: "./assets/images/video_pod_emerges",
   startFrame: 7,
   frameCount: 274,
   useWindowSize: true,
@@ -314,7 +314,7 @@ introMotionTl
 // Canvas-02
 const sequence02 = createImageSequence({
   canvasSelector: "#canvas-02",
-  imagePath: "/assets/images/video_pod_rotation",
+  imagePath: "./assets/images/video_pod_rotation",
   startFrame: 1,
   frameCount: 194,
 });
